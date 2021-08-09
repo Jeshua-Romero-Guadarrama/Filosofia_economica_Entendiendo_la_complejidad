@@ -1,4 +1,4 @@
-# Complejidad y futuro de la economía {-}
+# Complejidad y futuro de la economía {#CFE}
 
 La era neoclásica de la economía ha terminado. Sobre la base de los puntos de vista presentados en este libro, creo que se puede argumentar que ha sido reemplazado por la era de la complejidad . Esta nueva era no ha llegado a través de una revolución. En cambio, ha evolucionado a partir de las muchas corrientes del trabajo neoclásico, junto con el trabajo realizado por economistas heterodoxos y menos ortodoxos. Es la ola del futuro.
 

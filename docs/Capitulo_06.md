@@ -1,5 +1,5 @@
 # (PART) Economía de la complejidad {-}
-# Fundamentos lógicos y filosóficos de la complejidad {-}
+# Fundamentos lógicos y filosóficos de la complejidad {#FLFC}
 
 Hay al menos 45 definiciones de complejidad según Seth Lloyd, como se informa en The End of Science (Horgan, 1997, págs. 303-305). Rosser Jr. (1999) defendió la utilidad en el estudio de la economía de una definición que él llamó complejidad dinámica que fue originada por Day (1994). Se trata de que un sistema económico dinámico no logra generar convergencia a un punto, un ciclo límite o una explosión (o implosión) de forma endógena a partir de sus partes deterministas. Se ha argumentado que la no linealidad era una condición necesaria pero no suficiente para esta forma de complejidad, y que esta definición constituía una "gran carpa" suficientemente amplia para abarcar las "cuatro C" de la cibernética , la catástrofe , el caos y la "pequeña carpa".”(Ahora más conocidos como agentes heterogéneos ) complejidad .
 

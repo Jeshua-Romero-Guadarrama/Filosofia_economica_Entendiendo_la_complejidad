@@ -1,7 +1,21 @@
-book_filename: "Filosofias_economicas"
+book_filename: "Filosofia_economica_entendiendo_la_complejidad"
 new_session: yes
 output_dir: docs
 delete_merged_file: true
+rmd_files: ["index.Rmd",
+            "Capitulo_01.Rmd",
+            "Capitulo_02.Rmd",
+            "Capitulo_03.Rmd",
+            "Capitulo_04.Rmd",
+            "Capitulo_05.Rmd",
+            "Capitulo_06.Rmd",
+            "Capitulo_07.Rmd",
+            "Capitulo_08.Rmd",
+            "Capitulo_09.Rmd",
+            "Capitulo_10.Rmd",
+            "Capitulo_11.Rmd",
+            "Capitulo_12.Rmd",
+            "Referencias_bibliograficas.Rmd"]
 language:
   label:
     fig: 'Figura '
@@ -18,21 +32,4 @@ language:
     remark: 'Nota: '        # remark
     solution: 'Solución. '  # solution
     cnj: 'Algoritmo '       # conjecture
-    # Empleamos el entorno "Conjetura" como "Algoritmo"
-#  ui:
-#    chapter_name: "Capítulo "
 edit: https://github.com/jeshua-romero-guadarrama/Filosofias_economicas-bookdown/edit/master/%s
-rmd_files: ["index.Rmd",
-            "Capitulo_01.Rmd",
-            "Capitulo_02.Rmd",
-            "Capitulo_03.Rmd",
-            "Capitulo_04.Rmd",
-            "Capitulo_05.Rmd",
-            "Capitulo_06.Rmd",
-            "Capitulo_07.Rmd",
-            "Capitulo_08.Rmd",
-            "Capitulo_09.Rmd",
-            "Capitulo_10.Rmd",
-            "Capitulo_11.Rmd",
-            "Capitulo_12.Rmd",
-            "Referencias_bibliograficas.Rmd"]

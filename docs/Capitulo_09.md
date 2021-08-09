@@ -1,5 +1,5 @@
 # (PART) Econofísica, entropía y complejidad {-}
-# Econofísica, entropía y complejidad {-}
+# Econofísica, entropía y complejidad {#EEC}
 
 El término econofísica fue neologizado en 1995 en la segunda conferencia Statphys-Kolkata en Kolkata (antes Calcuta), India, por el físico H. Eugene Stanley, quien también fue el primero en usarlo en forma impresa (Stanley 1996). Mantegna y Stanley (2000, pp. Viii-ix) definen "el campo multidisciplinario de la econofísica" como "un neologismo que denota las actividades de los físicos que están trabajando en problemas económicos para probar una variedad de nuevos enfoques conceptuales derivados de las ciencias físicas" Chakrabarti 2005, pág. 225).
 

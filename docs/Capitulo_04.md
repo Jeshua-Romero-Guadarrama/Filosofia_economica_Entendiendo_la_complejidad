@@ -1,5 +1,5 @@
 # (PART) Entender el neoliberalismo {-}
-# Neoliberalismo {-}
+# Neoliberalismo {#N}
 
 El Estado de Bienestar que surge de la Segunda Guerra Mundial marca el predominio de la economía keynesiana y las ideas de Beveridge. Sin embargo, el consenso keynesiano en economía adolece de algunos desarrollos económicos y sociales y de un ataque al marco analítico de Keynes. En un entorno en el que las preocupaciones inflacionarias ocupan el lugar del desempleo masivo como tema central para los políticos y los economistas, una contrarrevolución monetarista, una atención renovada por el comportamiento individual y una postura no intervencionista caracterizan la larga fase del neoliberalismo. Encuentra apoyo intelectual en la filosofía económica de James Buchanan y, en el campo de la economía, en los esquemas teóricos de las “expectativas racionales” y las hipótesis del “mercado eficiente”. La confianza en este libertario, El enfoque individualista se ve seriamente afectado por el colapso financiero de principios del siglo XXI y la Gran Recesión. Esta larga crisis proporciona el terreno para el dramático aumento del populismo, cuyas ideologías y posturas económicas —alimentadas por el dramático impacto de las redes sociales— son inciertas, más allá de un nacionalismo genérico y un llamado a la intervención estatal.
 

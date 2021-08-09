@@ -1,4 +1,4 @@
-# La compleja dinámica de las interacciones sociales {-}
+# La compleja dinámica de las interacciones sociales {#LCDIS}
 
 Qué tan grande es la economía no observada (NOE) y qué determina su tamaño en diferentes países y regiones del mundo es una cuestión muy estudiada (Schneider y Enste, 2000, 2002). El tamaño de este sector en una economía tiene ramificaciones importantes. Afecta negativamente la capacidad de una nación para recaudar impuestos para apoyar a su sector público, lo que puede llevar a que más agentes económicos se muevan hacia el sector no observado (Johnson et al. 1997). Cuando este sector se asocia con actividades delictivas o corruptas, puede socavar el capital social y la cohesión social más amplia (Putnam et al. 1993), lo que puede dañar el crecimiento económico (Knack y Keefer, 1997; Zak y Knack, 2001). Además, dado que los programas de ayuda internacional están vinculados a medidas oficiales del tamaño de las economías, estas pueden verse distorsionadas por amplias variaciones en los tamaños relativos de la NOE entre diferentes países, especialmente entre las economías en desarrollo.
 
