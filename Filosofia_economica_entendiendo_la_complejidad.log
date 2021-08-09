@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.8)  9 AUG 2021 10:01
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.8)  9 AUG 2021 10:34
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1213,13 +1213,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ] [9] [10] [11
 
-] [12]
-Underfull \hbox (badness 2980) in paragraph at lines 546--548
-[]\TU/lmr/m/n/10 Complejidad, entropía y autoorganización de sistemas urbanos /
-
- []
-
-[13] [14] [15
+] [12] [13] [14] [15
 
 ] [16]
 Chapter 1.
@@ -1419,7 +1413,7 @@ Chapter 2.
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [78] [79] [80] [81] [82] [83] [84] [85]
-Underfull \hbox (badness 1005) in paragraph at lines 1597--1599
+Underfull \hbox (badness 1005) in paragraph at lines 1613--1615
 \TU/lmr/m/n/10 económica, y como consecuencia no puede haber una única teoría
  []
 
@@ -1427,14 +1421,14 @@ Underfull \hbox (badness 1005) in paragraph at lines 1597--1599
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [91] [92] [93]
-Underfull \hbox (badness 1975) in paragraph at lines 1672--1673
+Underfull \hbox (badness 1975) in paragraph at lines 1688--1689
 []\TU/lmr/m/n/10 Es importante destacar que incluso si el bienestar económico (
 que es
  []
 
 [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [
 108] [109] [110] [111] [112] [113] [114] [115] [116]
-Underfull \hbox (badness 1205) in paragraph at lines 1862--1863
+Underfull \hbox (badness 1205) in paragraph at lines 1878--1879
 \TU/lmr/m/n/10 político, que es el resultado de tres estructuras: el Estado mis
 mo, el
  []
@@ -1451,7 +1445,7 @@ Chapter 3.
 Underfull \vbox (badness 4886) has occurred while \output is active []
 
 [153] [154] [155] [156] [157] [158] [159]
-Underfull \hbox (badness 1436) in paragraph at lines 2546--2547
+Underfull \hbox (badness 1436) in paragraph at lines 2562--2563
 \TU/lmr/m/n/10 de reglas por las cuales diversas situaciones económicas,
  []
 
@@ -1467,7 +1461,7 @@ Chapter 4.
 [187
 
 ] [188] [189] [190] [191] [192] [193] [194] [195]
-Overfull \hbox (11.14786pt too wide) in paragraph at lines 3175--3175
+Overfull \hbox (11.14786pt too wide) in paragraph at lines 3191--3191
 [][]\TU/lmr/bx/n/14.4 Actitudes filosóficas: constitucionalismo económico 
  []
 
@@ -1479,7 +1473,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [217] [218] [219] [220] [221] [222] [223] [224] [225]
-Overfull \hbox (4.51001pt too wide) in paragraph at lines 3553--3555
+Overfull \hbox (4.51001pt too wide) in paragraph at lines 3569--3571
 []\TU/lmr/m/n/10 Enciclopedia de Filosofía de Stanford ( plato.stanford.edu/con
 tractarianism
  []
@@ -1489,7 +1483,7 @@ tractarianism
 ] [232]
 Chapter 5.
 
-Underfull \hbox (badness 1755) in paragraph at lines 3765--3766
+Underfull \hbox (badness 1755) in paragraph at lines 3781--3782
 \TU/lmr/m/n/10 El último capítulo investiga el vínculo entre liberalismo e hist
 oricismo
  []
@@ -1530,7 +1524,7 @@ PERSPECTIVA
  []
 
 [242]
-Underfull \hbox (badness 10000) in paragraph at lines 3879--3881
+Underfull \hbox (badness 10000) in paragraph at lines 3895--3897
 
  []
 
@@ -1572,12 +1566,12 @@ ex-text;!
 ! Missing delimiter (. inserted).
 <to be read again> 
                    }
-l.3998 ...right): \theta \in \mathbf{R}^{k}\right}
+l.4014 ...right): \theta \in \mathbf{R}^{k}\right}
                                                   \] 
 Here is how much of TeX's memory you used:
  25814 strings out of 478475
  500965 string characters out of 5857612
- 956605 words of memory out of 5000000
+ 957605 words of memory out of 5000000
  45695 multiletter control sequences out of 15000+600000
  409929 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191

@@ -165,17 +165,21 @@ Capítulos:
 
 Parte VI Econofísica, entropía, complejidad y sistemas
 
+Capítulos:
+
 - Econofísica, entropía y complejidad
 - Econofísica y entropía en sistemas urbanos/regionales dinámicamente complejos
 
 Parte VII Sistemas ecológicos complejos
+
+Capítulos:
 
 - Los sistemas ecológico-económicos complejos y sus problemas de gobernanza
 - Complejidad y futuro de la economía
 
 # Índice de contenido {-}
 
-Capítulo 1. 1 Ideologías y economía política en el siglo XIX
+Capítulo 1. Ideologías y economía política en el siglo XIX
 
 - Schumpeter: en el origen de la economía política
 - Ilustración radical y moderada: Adam Smith y David Ricardo
@@ -222,7 +226,7 @@ Capítulo 4. Neoliberalismo
 Capítulo 5. La filosofía económica desde mi perspectiva
 
 - Una visión liberal
-- ¿ Hacia dónde iría ahora un liberal?
+- ¿Hacia dónde iría ahora un liberal?
 
 Capítulo 6. Fundamentos lógicos y filosóficos de la complejidad
 
@@ -275,14 +279,14 @@ Capítulo 9. Econofísica, entropía y complejidad
 - Modelado de la dinámica de distribución de la riqueza y la renta mediante la mecánica estadística
 - Rompiendo burbujas y la venganza de la entropía metafórica
 
-Capítulo 10. Econofísica y entropía en sistemas urbanos / regionales dinámicamente complejos
+Capítulo 10. Econofísica y entropía en sistemas urbanos/regionales dinámicamente complejos
 
 - Observaciones iniciales
 - El modelo de Wilson
 - Variaciones en los modelos de distribución espacial entrópica
-- Sistemas urbanos / regionales termodinámicamente sostenibles
-- Procesos anti-entrópicos en sistemas urbanos / regionales
-- Complejidad, entropía y autoorganización de sistemas urbanos / regionales
+- Sistemas urbanos/regionales termodinámicamente sostenibles
+- Procesos anti-entrópicos en sistemas urbanos/regionales
+- Complejidad, entropía y autoorganización de sistemas urbanos/regionales
 - Observaciones adicionales
 
 Capítulo 11. Los sistemas ecológico-económicos complejos y sus problemas de gobernanza
@@ -294,6 +298,7 @@ Capítulo 11. Los sistemas ecológico-económicos complejos y sus problemas de g
 - Estabilidad, resiliencia, complejidad de los ecosistemas revisados ​​y políticas
 
 Capítulo 12. Complejidad y futuro de la economía
+
 - La evolución de la economía
 - Más sobre la naturaleza de la complejidad
 - ¿Qué es el trabajo de complejidad de vanguardia?
