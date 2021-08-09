@@ -1,0 +1,6 @@
+Package: placeholder
+Type: Book
+Title: Filosofía económica: Entendiendo la complejidad
+Version: 0.0.1
+Imports: bookdown
+Remotes: rstudio/bookdown

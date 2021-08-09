@@ -1,0 +1,41 @@
+bookdown::gitbook:
+  toc_depth: 3
+  css: [style.css, toc.css]
+  config:
+    toc:
+      before: |
+        <li><center><img src="images/logo.png" alt="logo" width="50%" height="50%"style="margin: 15px 0 0 0"></center></li>
+      after: |
+        <li><a href="https://www.jeshuanomics.com/" target="blank">Publicado por JeshuaNomics</a></li>
+        <li><a href="https://github.com/JeshuaNomics" class="fa fa-github"><span class="label">  Git Hub</span></a></li>	
+        <li><a href="https://www.facebook.com/JeshuaNomics/" class="fa fa-facebook"><span class="label">  Facebook</span></a></li>
+        <li><a href="https://twitter.com/JeshuaNomics" class="fa fa-twitter"><span class="label">  Twitter</span></a></li>
+        <li><a href="https://www.linkedin.com/in/jeshua-romero-guadarrama/" class="fa fa-linkedin"><span class="label">  Linkedin</span></a></li>
+        <li><a href="https://vk.com/jeshuanomics" class="fa fa-vk"><span class="label">  Vkontakte</span></a></li>
+        <li><a href="https://jeshuanomics.tumblr.com/" class="fa fa-tumblr"><span class="label">  Tumblr</span></a></li>
+        <li><a href="https://www.youtube.com/channel/UCY7f84mJGvMN7TF7XI4-Jgg?view_as=subscriber/" class="fa fa-youtube-play"><span class="label">  YouTube</span></a></li>	
+        <li><a href="https://www.instagram.com/JeshuaNomics/" class="fa fa-instagram"><span class="label">  Instagram</span></a></li>
+    edit: https://github.com/Jeshua-Romero-Guadarrama/CienciaPolitica/edit/master/%s
+    download: ["pdf", "epub"]
+    search: yes
+    sharing:
+      vk: yes
+      linkedin: yes
+      twitter: yes
+      facebook: yes
+      github: no
+      tumblr: no
+      youtube: no
+      instagram: no
+      weibo: no
+      instapaper: no
+      whatsapp: no
+      all: ['vk', 'linkedin', 'twitter', 'facebook',]
+bookdown::epub_book: default
+bookdown::word_document2: default
+bookdown::pdf_book:
+  includes:
+    in_header: preamble.tex
+  latex_engine: xelatex
+  citation_package: natbib
+  keep_tex: yes
