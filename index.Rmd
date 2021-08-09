@@ -79,34 +79,17 @@ cat('<hr style="background-color:#03193b;height:2px">')
 cat('<hr style="background-color:#03193b;height:2px">')
 ```
 
-El presente texto nace al calor de las exigencias pedagógicas de entender los Fundamentos de la FIlosofía Económica, así como los Fundamentos y aplicaciones de la economía de la complejidad
+El presente texto nace al calor de las exigencias académicas por un análisis téroico alternativo del sistema económico, que permita a futuros economistas, interesados en la filosofía, entender la diversidad de teorías disponibles y la forma en que estás fueron construidas, los paradigmas que les dieron origen y a los que se tuvieron que enfrentar en algún momento. 
 
-#### Reconocimiento {-}
+A partir de los años que he pasado detrás de innumerables libros (con el objetivo de gestar, buscar y probar nuevos conocimientos), ve la luz pública este trabajo, que fué creciendo y cambiando lentamente, empezando como apuntes de la universidad. Creo que ha alcanzado la madurez suficiente para ser compartido con el mundo. Con independencia de su valor intrínseco, tengo entendido que hace mucho tiempo que no se hacía una obra de este tipo (lo que ciertamente le corresponde al lector juzgar). 
 
-A mi alma máter: Universidad Nacional Autónoma de México (Facultad de Economía y Facultad de Ciencias). Por brindarme valiosas oportunidades que coadyuvaron a mi formación.
+El presente libro muestra los fundamentos ideológicos detrás del trabajo de cualquier economista, así como las perspectivas que han prevalecido en gran medida en los últimos dos siglos: liberalismo^[El liberalismo se inclinó originalmente hacia un laissez-faire sin trabas, luego hacia un papel más amplio del Estado en el sistema económico (bajo la influencia de la ideología socialista), luego nuevamente se ha apoyado en un enfoque individualista de las cuestiones de producción y distribución de riqueza; más recientemente, la irrealidad de este enfoque ha sido revelada por las crisis sistémicas, lo que sugiere nuevas reflexiones e incertidumbres sobre la coherencia del razonamiento económico con la idea liberal: una perspectiva institucional e histórica puede abrir nuevos espacios para la comprensión de una economía circular cooperativista. ], nacionalismo^[Se examinan las vicisitudes del nacionalismo económico, sus rasgos estatistas y proteccionistas, su declive y resurgimiento reciente, no quedando claro qué forma está tomando actualmente desde el punto de vista económico y político. Esto es particularmente oscuro en el caso de esa forma específica de nacionalismo llamada populismo (término que busca decirlo todo, pero al examinarlo con cuidado no dice nada en específico).] y socialismo^[El declive y la caída del materialismo histórico de Marx no pueden ocultar el contraste inherente de intereses entre los dos lados de un contrato laboral. El legado duradero del socialismo es la relevancia duradera y multiforme, desde una fuerza laboral acobardada hasta cuestiones ambientales, entre otros temas sociales en las economías modernas.]. Sobre la base y la fuerza de estas ideologías se han construido los sistemas actuales. Exploro las conexiones entre teoría y juicios de valor para identificar las premisas filosóficas detrás del razonamiento económico de economistas tan diversos como Smith, Ricardo, Marx, Pareto, Keynes, Hayek, entre otros.
 
-```{r, eval=knitr::opts_knit$get("rmarkdown.pandoc.to") == "html", results='asis', echo=FALSE}
-cat('<br>
-![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg)
+Asimismo, el libro forma un camino idóneo para un estudio formal de los aspectos básicos de la complejidad económica, desde un enfoque interdisciplinario y fundamentado en ideas. Exponiendo la teoría de la complejidad y sus amplias aplicaciones en economía, política y otras disciplinas relacionadas^[Con aplicaciones en todas las disciplinas caracterizadas por sistemas adaptativos no lineales interconectados, como la ciencia económica o ciencias regionales, matemáticas, física, biología, ciencias ambientales, filosofía y psicología.]. Comienzo con una descripción completa de las categorías más amplias de complejidad en economía (dinámica, computacional, jerárquica y estructural) antes de pasar a un análisis más detallado. 
 
-Esta obra está autorizado bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).')
-```
+A continuación, abordo los problemas asociados con la complejidad computacional, especialmente los de computabilidad, y discuto el teorema de incompletitud de Godel con un enfoque en la reflexividad. En este mismo sentido, discuto la relación entre la entropía, la econofísica, la evolución y la complejidad económica, respectivamente, con aplicaciones en la dinámica urbana y regional, la economía ecológica, la teoría del equilibrio general y la dinámica del mercado financiero. Finalmente, reuno estos temas en un marco más amplio y expongo algunos de los límites relacionados con el análisis de cuestiones fundamentales más profundas.
 
-El libro muestra el fundamento ideológico del trabajo del economista, y las perspectivas ideológicas son las que han prevalecido en gran medida en los últimos dos siglos: liberalismo, nacionalismo y socialismo. Sobre la base y la fuerza de estas ideologías se han construido los sistemas de economía política. Roselli explora las conexiones entre teoría y juicios de valor para identificar las premisas filosóficas detrás del razonamiento económico de economistas tan diversos como Smith, Ricardo, Marx, Pareto, Keynes, Hayek, entre otros.
-
-El liberalismo se inclinó originalmente hacia un laissez-faire sin trabas, luego hacia un papel más amplio del Estado en el sistema económico, bajo la influencia de la ideología socialista, luego nuevamente se ha apoyado en un enfoque individualista de las cuestiones de producción y distribución de riqueza; Más recientemente, la irrealidad de este enfoque ha sido revelada por las crisis sistémicas, lo que sugiere nuevas reflexiones e incertidumbres sobre la coherencia del razonamiento económico con la idea liberal: una perspectiva institucional e histórica puede abrir nuevos espacios para la comprensión de una economía liberal y capitalista. 
-
-Se examinan las vicisitudes del nacionalismo económico, sus rasgos estatistas y proteccionistas, su declive y resurgimiento reciente, no quedando claro qué forma está tomando actualmente desde el punto de vista económico y político. Esto es particularmente oscuro en el caso de esa forma específica de nacionalismo llamada populismo. 
-
-El declive y la caída del materialismo histórico de Marx no pueden ocultar el contraste inherente de intereses entre los dos lados de un contrato laboral. El legado duradero del socialismo es la relevancia duradera y multiforme, desde una fuerza laboral acobardada hasta cuestiones ambientales, de los temas sociales en las economías modernas.
-
-Este libro presenta un estudio de los aspectos de la complejidad económica, con un enfoque en ideas fundamentales e interdisciplinarias. El tan esperado seguimiento de su volumen de 2011  Complex Evolutionary Dynamics in Urban-Regional and Ecologic-Economic Systems: From Catastrophe to Chaos and Beyond , este volumen reúne los hilos del trabajo anterior de Rosser sobre la teoría de la complejidad y sus amplias aplicaciones en economía y economía. una lista ampliada de disciplinas relacionadas. 
-
-El libro comienza con una descripción completa de las categorías más amplias de complejidad en economía (dinámica, computacional, jerárquica y estructural) antes de pasar a un análisis más detallado. Los dos capítulos siguientes abordan problemas asociados con la complejidad computacional, especialmente los de computabilidad, y discuten el Teorema de incompletitud de Godel con un enfoque en la reflexividad. Los capítulos intermedios discuten la relación entre la entropía, la econofísica, la evolución y la complejidad económica, respectivamente, con aplicaciones en la dinámica urbana y regional, la economía ecológica, la teoría del equilibrio general y la dinámica del mercado financiero. El capítulo final trabaja para reunir estos temas en un marco más amplio y exponer algunos de los límites relacionados con el análisis de cuestiones fundamentales más profundas.
-
-Con aplicaciones en todas las disciplinas caracterizadas por sistemas adaptativos no lineales interconectados, este libro es apropiado para estudiantes graduados, profesores y profesionales de la economía y disciplinas relacionadas como ciencias regionales, matemáticas, física, biología, ciencias ambientales, filosofía y psicología.
-
-Palabras clave:
+#### Palabras clave {-}
 
 - Filosofía económica
 - Liberalismo clásico
@@ -132,24 +115,199 @@ Palabras clave:
 - Complejidad computacional
 - Econofísica
 
+#### Las convenciones usadas en el presente curso {-}
+
++ El texto *en cursiva* indica nuevos términos, nombres y similares.
+
++ El texto **en negrita** se usa generalmente en párrafos para referirse a conceptos que se recomienda memorizar. 
+
++ <code>Texto de ancho constante sobre fondo gris</code> indica un enfoque teórico o metodológico comúnmente utilizado en la práctica por los politólogos. 
+
+#### Reconocimiento {-}
+
+A mi alma máter: Universidad Nacional Autónoma de México (Facultad de Economía y Facultad de Ciencias). Por brindarme valiosas oportunidades que coadyuvaron a mi formación.
+
+```{r, eval=knitr::opts_knit$get("rmarkdown.pandoc.to") == "html", results='asis', echo=FALSE}
+cat('<br>
+![Creative Commons License](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-nc-sa.eu.svg)
+
+Esta obra está autorizado bajo la [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).')
+```
+
 # Contenido {-}
 
-Parte I Teoría elemental de números
+Parte I Siglo XIX y Siglo XX
 
 Capítulos:
 
-- Congruencias
+- Ideologías y economía política en el siglo XIX
+- Metamorfosis del liberalismo en el siglo XX
 
-## Índice de contenido {-}
+Parte II Entender el liberalismo y neoliberalismo
 
-Capítulo 1. Congruencias
+Capítulos:
 
-- Introducción a las congruencias
+- Enemigos del liberalismo
+- Neoliberalismo
 
-- Sistemas de residuos y función $\phi$ de Euler
+Parte III Visiones alternativas 
 
-- Congruencias lineales
+Capítulos:
 
-- El teorema del resto chino
+- La filosofía económica desde mi perspectiva
+- Alternativas
+ 
+Parte IV Economía de la complejidad
 
-- Teoremas de Fermat, Euler y Wilson
+Capítulos:
+
+- Fundamentos lógicos y filosóficos de la complejidad
+- Fundamentos de la economía conductual compleja
+
+Parte V Complejidad de las interacciones sociales
+
+Capítulos:
+
+- La compleja dinámica de las interacciones sociales
+
+Parte VI Econofísica, entropía, complejidad y sistemas
+
+- Econofísica, entropía y complejidad
+- Econofísica y entropía en sistemas urbanos/regionales dinámicamente complejos
+
+Parte VII Sistemas ecológicos complejos
+
+- Los sistemas ecológico-económicos complejos y sus problemas de gobernanza
+- Complejidad y futuro de la economía
+
+# Índice de contenido {-}
+
+Capítulo 1. 1 Ideologías y economía política en el siglo XIX
+
+- Schumpeter: en el origen de la economía política
+- Ilustración radical y moderada: Adam Smith y David Ricardo
+- El positivismo y John Stuart Mill
+- Utilidad marginal: Jevons y Marshall: ¿estamos en el campo del liberalismo?
+- La economía como ciencia pura: Léon Walras y Vilfredo Pareto
+- Historicismo: nacionalismo económico y socialismo marxista
+- Alemania y Gran Bretaña en el siglo XIX
+- La economía política como sistema de “economía nacional”
+- Lista: proteccionistas, mercantilistas, fisiócratas y la idea de Europa
+- Historicismo económico alemán
+- Socialismo marxista
+
+Capítulo 2. Metamorfosis del liberalismo en el siglo XX
+
+- Causas del nuevo pensamiento sobre el liberalismo
+- El estatismo de Rathenau frente al “liberismo” de Einaudi
+- Las dudas de Pigou
+- El liberalismo de Keynes
+- Estado de bienestar de Beveridge
+- La escuela austriaca y el liberalismo de Hayek
+- La escuela de Chicago
+- Ordoliberalismo o liberalismo autoritario
+
+Capítulo 3. Enemigos del liberalismo
+
+- Nacionalismo y corporativismo
+- Diferentes interpretaciones del corporativismo
+- Filosofía económica marxista después de Marx: sin cambios
+- Ajustar e interpretar a Marx
+- Crítica de Dobb a la economía de libre mercado. La reconciliación de Sraffa entre la economía clásica y el marxismo
+- Crítica liberal del marxismo
+- Socialismo por defecto: religión, Schumpeter y Polanyi
+
+Capítulo 4. Neoliberalismo
+
+- La “situación clásica” de Keynes
+- Desaparición del consenso keynesiano
+- Actitudes filosóficas: constitucionalismo económico
+- Nueva economía clásica
+- ¿ Una nueva “situación clásica?”
+- El populismo como subproducto del neoliberalismo
+
+Capítulo 5. La filosofía económica desde mi perspectiva
+
+- Una visión liberal
+- ¿ Hacia dónde iría ahora un liberal?
+
+Capítulo 6. Fundamentos lógicos y filosóficos de la complejidad
+
+- Formas de complejidad
+- Fundamentos de la economía de la complejidad computacional
+- Epistemología y complejidad computacional
+- Fundamentos de la economía de la complejidad dinámica
+- Conocimiento y complejidad dinámica
+- Conocimiento y ergodicidad
+- Reflexividad y unificación de conceptos de complejidad
+- Observaciones adicionales
+
+Capítulo 7. Fundamentos de la economía conductual compleja
+
+- Resumen
+- Herbert Simon y la racionalidad limitada
+- Imitación e inestabilidad de los mercados
+- Complejidad jerárquica y la cuestión del surgimiento
+- Racionalidad limitada y aprender a creer en el caos
+- Economía del comportamiento e incertidumbre keynesiana
+- Economía del comportamiento y la complejidad de la evolución institucional
+- El debate de la discontinuidad en la teoría evolutiva
+- Instituciones, organizaciones y el lugar de la evolución económica
+- Emergencia y evolución multinivel
+- Economía institucional antigua y nueva desde una perspectiva evolutiva compleja
+- Resumiendo
+
+Capítulo 8. La compleja dinámica de las interacciones sociales
+
+- Introducción
+- Rendimientos laborales en la economía no observada
+- Variables y fuentes de datos
+- Hallazgos empíricos
+- Conclusiones
+
+Capítulo 9. Econofísica, entropía y complejidad
+
+- Los orígenes y la naturaleza de la econofísica
+- El papel de la distribución de Pareto
+- El papel de la mecánica estadística
+- Econoquímica y Econobiología
+- Econofísica y entropía
+- Unidad de los conceptos centrales de la entropía
+- La entropía ontológica y la econofísica como límite fundamental del crecimiento
+- La entropía ontológica y la visión energética del valor económico
+- Entropía metafórica y valor de equilibrio general
+- Entropía entre econofísica y sociofísica
+- Modelado financiero entrópico metafórico
+- Más metáfora, el proceso anti-entrópico de la burbuja de Minsky
+- Modelado de la dinámica de distribución de la riqueza y la renta mediante la mecánica estadística
+- Rompiendo burbujas y la venganza de la entropía metafórica
+
+Capítulo 10. Econofísica y entropía en sistemas urbanos / regionales dinámicamente complejos
+
+- Observaciones iniciales
+- El modelo de Wilson
+- Variaciones en los modelos de distribución espacial entrópica
+- Sistemas urbanos / regionales termodinámicamente sostenibles
+- Procesos anti-entrópicos en sistemas urbanos / regionales
+- Complejidad, entropía y autoorganización de sistemas urbanos / regionales
+- Observaciones adicionales
+
+Capítulo 11. Los sistemas ecológico-económicos complejos y sus problemas de gobernanza
+
+- Introducción: Ostrom, complejidad y gobernanza
+- Dinámica pesquera compleja
+- Problemas de complejidad de la rotación óptima en los bosques
+- Complejidades de los sistemas de economía climática
+- Estabilidad, resiliencia, complejidad de los ecosistemas revisados ​​y políticas
+
+Capítulo 12. Complejidad y futuro de la economía
+- La evolución de la economía
+- Más sobre la naturaleza de la complejidad
+- ¿Qué es el trabajo de complejidad de vanguardia?
+- Cambios en los métodos de investigación
+- Trabajo de complejidad de vanguardia y macroeconomía moderna
+- La economía de la complejidad y el debate sobre la economía heterodoxa
+- Economía de la complejidad y políticas públicas
+- La paradoja de la economía como sistema adaptativo complejo
+
+Referencias bibliográficas

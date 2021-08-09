@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.8)  9 AUG 2021 02:19
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021/W32TeX) (preloaded format=xelatex 2021.8.8)  9 AUG 2021 10:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1206,27 +1206,26 @@ LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 6.99925pt on input line 159.
 LaTeX Font Info:    Font shape `TU/latinmodern-math.otf(3)/m/n' will be
 (Font)              scaled to size 4.99947pt on input line 159.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
 [5] [6] [7] [8
 
-] [9] [10
+] [9] [10] [11
 
-] [11] [12]
+] [12]
+Underfull \hbox (badness 2980) in paragraph at lines 546--548
+[]\TU/lmr/m/n/10 Complejidad, entropía y autoorganización de sistemas urbanos /
+
+ []
+
+[13] [14] [15
+
+] [16]
 Chapter 1.
-[13
+[17
 
 ]
-Overfull \hbox (3.53232pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 14 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
- EL SIGLO XIX
- []
-
-[14] [15]
-Overfull \hbox (3.53232pt too wide) has occurred while \output is active
-\TU/lmr/m/n/10 16 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
- EL SIGLO XIX
- []
-
-[16] [17]
 Overfull \hbox (3.53232pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 18 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
  EL SIGLO XIX
@@ -1262,10 +1261,7 @@ Overfull \hbox (3.53232pt too wide) has occurred while \output is active
  EL SIGLO XIX
  []
 
-[28]
-Underfull \vbox (badness 2698) has occurred while \output is active []
-
-[29]
+[28] [29]
 Overfull \hbox (3.53232pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 30 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
  EL SIGLO XIX
@@ -1277,7 +1273,10 @@ Overfull \hbox (3.53232pt too wide) has occurred while \output is active
  EL SIGLO XIX
  []
 
-[32] [33]
+[32]
+Underfull \vbox (badness 2698) has occurred while \output is active []
+
+[33]
 Overfull \hbox (3.53232pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 34 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
  EL SIGLO XIX
@@ -1313,10 +1312,7 @@ Overfull \hbox (3.53232pt too wide) has occurred while \output is active
  EL SIGLO XIX
  []
 
-[44]
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-[45]
+[44] [45]
 Overfull \hbox (3.53232pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 46 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
  EL SIGLO XIX
@@ -1328,7 +1324,10 @@ Overfull \hbox (3.53232pt too wide) has occurred while \output is active
  EL SIGLO XIX
  []
 
-[48] [49]
+[48]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+[49]
 Overfull \hbox (3.53232pt too wide) has occurred while \output is active
 \TU/lmr/m/n/10 50 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
  EL SIGLO XIX
@@ -1400,67 +1399,75 @@ Overfull \hbox (3.53232pt too wide) has occurred while \output is active
  EL SIGLO XIX
  []
 
-[72] [73
+[72] [73]
+Overfull \hbox (3.53232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 74 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
+ EL SIGLO XIX
+ []
 
-] [74]
+[74] [75]
+Overfull \hbox (3.53232pt too wide) has occurred while \output is active
+\TU/lmr/m/n/10 76 \TU/lmr/m/sl/10 CHAPTER 1.  IDEOLOGÍAS Y ECONOMÍA POLÍTICA EN
+ EL SIGLO XIX
+ []
+
+[76]
 Chapter 2.
-[75
+[77
 
 ]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[76] [77] [78] [79] [80] [81] [82] [83]
-Underfull \hbox (badness 1005) in paragraph at lines 1290--1292
+[78] [79] [80] [81] [82] [83] [84] [85]
+Underfull \hbox (badness 1005) in paragraph at lines 1597--1599
 \TU/lmr/m/n/10 económica, y como consecuencia no puede haber una única teoría
  []
 
-[84] [85] [86] [87] [88]
+[86] [87] [88] [89] [90]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-[89] [90] [91]
-Underfull \hbox (badness 1975) in paragraph at lines 1365--1366
+[91] [92] [93]
+Underfull \hbox (badness 1975) in paragraph at lines 1672--1673
 []\TU/lmr/m/n/10 Es importante destacar que incluso si el bienestar económico (
 que es
  []
 
-[92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [10
-6] [107] [108] [109] [110] [111] [112] [113] [114]
-Underfull \hbox (badness 1205) in paragraph at lines 1555--1556
+[94] [95] [96] [97] [98] [99] [100] [101] [102] [103] [104] [105] [106] [107] [
+108] [109] [110] [111] [112] [113] [114] [115] [116]
+Underfull \hbox (badness 1205) in paragraph at lines 1862--1863
 \TU/lmr/m/n/10 político, que es el resultado de tres estructuras: el Estado mis
 mo, el
  []
 
-[115] [116] [117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [
-128] [129] [130] [131] [132] [133
+[117] [118] [119] [120] [121] [122] [123] [124] [125] [126] [127] [128] [129] [
+130] [131] [132] [133] [134] [135
 
-] [134]
+] [136]
 Chapter 3.
-[135
+[137
 
-] [136] [137] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148]
-[149] [150]
+] [138] [139] [140] [141] [142] [143] [144] [145] [146] [147] [148] [149] [150]
+[151] [152]
 Underfull \vbox (badness 4886) has occurred while \output is active []
 
-[151] [152] [153] [154] [155] [156] [157]
-Underfull \hbox (badness 1436) in paragraph at lines 2239--2240
+[153] [154] [155] [156] [157] [158] [159]
+Underfull \hbox (badness 1436) in paragraph at lines 2546--2547
 \TU/lmr/m/n/10 de reglas por las cuales diversas situaciones económicas,
  []
 
-[158]
+[160]
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
-[159] [160] [161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [
-172] [173] [174] [175] [176]
+[161] [162] [163] [164] [165] [166] [167] [168] [169] [170] [171] [172] [173] [
+174] [175] [176] [177] [178]
 Underfull \vbox (badness 2698) has occurred while \output is active []
 
-[177] [178] [179] [180] [181] [182] [183] [184] [185
-
-] [186]
+[179] [180] [181] [182] [183] [184] [185] [186]
 Chapter 4.
 [187
 
 ] [188] [189] [190] [191] [192] [193] [194] [195]
-Overfull \hbox (11.14786pt too wide) in paragraph at lines 2871--2871
+Overfull \hbox (11.14786pt too wide) in paragraph at lines 3175--3175
 [][]\TU/lmr/bx/n/14.4 Actitudes filosóficas: constitucionalismo económico 
  []
 
@@ -1472,7 +1479,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 [217] [218] [219] [220] [221] [222] [223] [224] [225]
-Overfull \hbox (4.51001pt too wide) in paragraph at lines 3249--3251
+Overfull \hbox (4.51001pt too wide) in paragraph at lines 3553--3555
 []\TU/lmr/m/n/10 Enciclopedia de Filosofía de Stanford ( plato.stanford.edu/con
 tractarianism
  []
@@ -1482,7 +1489,7 @@ tractarianism
 ] [232]
 Chapter 5.
 
-Underfull \hbox (badness 1755) in paragraph at lines 3461--3462
+Underfull \hbox (badness 1755) in paragraph at lines 3765--3766
 \TU/lmr/m/n/10 El último capítulo investiga el vínculo entre liberalismo e hist
 oricismo
  []
@@ -1523,7 +1530,7 @@ PERSPECTIVA
  []
 
 [242]
-Underfull \hbox (badness 10000) in paragraph at lines 3575--3577
+Underfull \hbox (badness 10000) in paragraph at lines 3879--3881
 
  []
 
@@ -1565,16 +1572,16 @@ ex-text;!
 ! Missing delimiter (. inserted).
 <to be read again> 
                    }
-l.3694 ...right): \theta \in \mathbf{R}^{k}\right}
+l.3998 ...right): \theta \in \mathbf{R}^{k}\right}
                                                   \] 
 Here is how much of TeX's memory you used:
- 25805 strings out of 478475
- 500711 string characters out of 5857612
- 957604 words of memory out of 5000000
- 45692 multiletter control sequences out of 15000+600000
- 409905 words of font info for 83 fonts, out of 8000000 for 9000
+ 25814 strings out of 478475
+ 500965 string characters out of 5857612
+ 956605 words of memory out of 5000000
+ 45695 multiletter control sequences out of 15000+600000
+ 409929 words of font info for 86 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
- 87i,6n,120p,6643b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 87i,8n,120p,6643b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
 
 Output written on Filosofia_economica_entendiendo_la_complejidad.pdf (251 pages
 ).

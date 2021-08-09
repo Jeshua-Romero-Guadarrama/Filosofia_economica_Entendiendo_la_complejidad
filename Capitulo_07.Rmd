@@ -1,5 +1,9 @@
 # Fundamentos de la economía conductual compleja {#FECC}
 
+```{r, eval=knitr::opts_knit$get("rmarkdown.pandoc.to") == "html", results='asis', echo=FALSE}
+cat('<hr style="background-color:#03193b;height:2px">')
+```
+
 Herbert A. Simon desarrolló la idea de racionalidad limitada a partir de sus primeros trabajos (Simon 1947, 1955a, 1957), que se considera la base de la economía conductual moderna.. La economía del comportamiento contrasta con la economía más convencional en que no asume la racionalidad de la información completa por parte de los agentes económicos en su comportamiento. En este sentido, se basa en conocimientos sobre el comportamiento humano de otras disciplinas de las ciencias sociales como la psicología y la sociología, entre otras. Sin lugar a dudas, se pueden encontrar economistas anteriores que sostenían que la gente está motivada por algo más que una mera maximización egoísta. De hecho, desde los inicios de la economía con Aristóteles, quien puso las consideraciones económicas en un contexto de filosofía moral y conducta adecuada, a través del padre de la economía política, Adam Smith en su Teoría de los sentimientos morales.(1759), a economistas institucionales posteriores como Thorstein Veblen (1899) y Karl Polanyi (1944), quienes vieron la conducta económica de las personas como incrustada en contextos sociales y políticos más amplios. Sin embargo, fue Simon quien acuñó ambos términos y estableció la economía del comportamiento moderna.
 
 ## Resumen {-}

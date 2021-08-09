@@ -1,6 +1,10 @@
 # (PART) Sistemas ecológicos complejos {-}
 # Los sistemas ecológico-económicos complejos y sus problemas de gobernanza {#LSEECPG}
 
+```{r, eval=knitr::opts_knit$get("rmarkdown.pandoc.to") == "html", results='asis', echo=FALSE}
+cat('<hr style="background-color:#03193b;height:2px">')
+```
+
 La difunta Elinor Ostrom fue la persona que vio con mayor claridad el supuesto dilema llamado la “tragedia de los comunes” (Hardin 1968; Ostrom 1990). Se argumentó ampliamente que administrar los recursos de propiedad común era una propuesta imposible, que o la propiedad común se privatiza de alguna manera o de lo contrario habrá una tendencia inevitable a que el recurso se sobreexplote, posiblemente para completar la destrucción o el agotamiento. Tales resultados fueron vistos como resultados inevitables de los juegos de dilemas de los prisioneros donde los agentes que utilizan recursos de propiedad común no cooperarán entre sí y, en cambio, buscarán obtener la mayor cantidad de recursos para sí mismos lo antes posible. Sin embargo, ella entendió desde el principio de su trabajo (Ostrom 1976) que la gente busca trabajar en arreglos para administrar los recursos de propiedad común. A medida que estudiaba este fenómeno a lo largo del tiempo, se dio cuenta de que diferentes grupos persiguen diferentes soluciones. Esto la llevó a plantear el concepto de policentrismo y la importancia de la diversidad institucional en todo el mundo, en función de las circunstancias y culturas locales (Ostrom 2005, 2012).
 
 ## Introducción: Ostrom, complejidad y gobernanza {-}
